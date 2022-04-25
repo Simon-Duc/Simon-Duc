@@ -17,6 +17,6 @@
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+My GitHub stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-Duc&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
