@@ -27,4 +27,6 @@
 
 ---
 
+- 🏵️ My Codewars stats
+
 <img src="https://www.codewars.com/users/Simon-Duc/badges/large" alt="Codewars"/>
