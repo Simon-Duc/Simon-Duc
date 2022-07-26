@@ -3,7 +3,6 @@
 - 👨‍💻 I’m a web developer.
 - 🌱 I’m currently learning React.js and Express.js at the Wild Code School (Reims, France).
 - <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>  Here is my [LinkedIn profile](https://www.linkedin.com/in/simon-duc-858481213/).
-- <img src="https://www.codewars.com/users/Simon-Duc/badges/large" alt="Codewars"/>
 
 ---
 
@@ -25,3 +24,7 @@
 - &#x1f4c8; My GitHub stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-Duc&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+- <img src="https://www.codewars.com/users/Simon-Duc/badges/large" alt="Codewars"/>
