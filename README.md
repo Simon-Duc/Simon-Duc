@@ -6,7 +6,7 @@
 
 ---
 
-- 🧰 Languages and tools:
+- 🧰 Languages and tools :
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="48" height="48"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="48" height="48"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="50" height="50"/>
@@ -20,7 +20,7 @@
 
 ---
 
-- &#x1f4c8; Stats
+- &#x1f4c8; Stats :
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simon-Duc&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&hide=issues&custom_title=GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
 
