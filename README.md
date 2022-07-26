@@ -24,6 +24,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-Duc&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simon-Duc&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&hide=issues&custom_title=Simon-Duc\'s+GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 - 🏵️ My Codewars stats
