@@ -25,4 +25,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-Duc&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-https://www.codewars.com/users/Simon-Duc/badges/small
+
+<img src="https://www.codewars.com/users/Simon-Duc/badges/small" alt="Codewars"/>
