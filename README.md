@@ -24,3 +24,5 @@
 - &#x1f4c8; My GitHub stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-Duc&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+https://www.codewars.com/users/Simon-Duc/badges/small
